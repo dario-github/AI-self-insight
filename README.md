@@ -18,6 +18,12 @@ Self-Insight AI is an artificial intelligence tool based on GPT-4, designed to h
 
 ## How to Use
 
+- Visit ChatGPT
+- Select the GPT-4 (or above) model
+- Copy and paste the contents of [prompt.md](./prompt.md) into ChatGPT
+- Let Dr. Insight guide you through the configuration process
+- Start Exploration!
+
 To start with Self-Insight AI, users can input the following commands for interaction:
 * /start: Start the self-insight process.
 * /next: Continue to the next characteristic.
