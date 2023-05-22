@@ -24,3 +24,6 @@
 
 本工具仅提供用户进行自我认知和洞察的平台，不能替代专业的心理健康评估或治疗。在使用过程中若感到不适，应寻求专业帮助。
 
+## 贡献者
+
+- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
