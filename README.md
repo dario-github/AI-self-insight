@@ -28,4 +28,8 @@ To start with Self-Insight AI, users can input the following commands for intera
 
 ## Note
 
-This tool only provides a platform for users to gain self-insight and understanding, and
+This tool only provides a platform for users to gain self-insight and understanding, and cannot replace professional psychological health assessment or treatment. If any discomfort is experienced during the use, professional help should be sought.
+
+## Contributor
+
+- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
